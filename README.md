@@ -55,6 +55,21 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ## Code of Conduct
 
+
+## Setup 
+
+git clone https://github.com/tnawayn83/laravel9jetstream.git
+<br>
+cd laravel9jetstream<br>
+composer update<br>
+cp .env.example .env<br>
+php artisan key:generate<br>
+php artisan migrate --seed<br>
+php artisan serve<br>
+
+
+
+
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
