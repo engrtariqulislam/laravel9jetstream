@@ -59,12 +59,13 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ## Setup 
 
 git clone https://github.com/tnawayn83/laravel9jetstream.git
-cd laravel9jetstream
-composer update
-cp .env.example .env
-php artisan key:generate
-php artisan migrate --seed
-php artisan serve
+<br>
+cd laravel9jetstream<br>
+composer update<br>
+cp .env.example .env<br>
+php artisan key:generate<br>
+php artisan migrate --seed<br>
+php artisan serve<br>
 
 
 
